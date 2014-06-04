@@ -3,6 +3,7 @@ You must adhere to the following license when using any version of SpriteAnimato
 License 0.1 - 04/06/2014
 
 The author, developers and permitted distributors of this software cannot be held liable for 
+any damages caused by its use.
 
 You may view and use this software freely, however you MUST give credit for its use in the 
 development of anything other than its intended use (as stated below).
