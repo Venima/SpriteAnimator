@@ -1,0 +1,23 @@
+You must adhere to the following license when using any version of SpriteAnimator:
+
+License 0.1 - 04/06/2014
+
+The author, developers and permitted distributors of this software cannot be held liable for 
+
+You may view and use this software freely, however you MUST give credit for its use in the 
+development of anything other than its intended use (as stated below).
+
+You may NOT redistribute this software, or any modifications of this software without express 
+(written) permission by its author (Venima) AND a member of the Ansuz Studios development team. 
+Permission is revoked if any malicious or infectious processes are found to be associated with 
+the redistribution of this software. It is also at the discretion of any member of the Ansuz 
+Studios development team to request by law the removal of a redistribution at any time, even if 
+prior permission had been given. You may NOT redistribute this software in a manner that cannot 
+be undone within 24 hours. Any redistributions MUST also use this license. 
+
+Intended Use:
+The SpriteAnimator is intended for the creation of animated sprites files for Ansuz Studios 
+projects only, as shown on the website: http://ansuzstudios.com/.
+
+The software under this license was developed in Java(TM) with the assistance of the Java SDK. 
+You must also adhere to any licenses that Java or the use of the Java SDK holds on developed software.
