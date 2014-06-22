@@ -5,6 +5,8 @@ License 0.1 - 04/06/2014
 The author, developers and permitted distributors of this software cannot be held liable for 
 any damages caused by its use.
 
+Note that the images contained in the resources folder do not belong to this software and are used for the SOLE purpose of demonstration. You may not redistribute these images.
+
 You may view and use this software freely, however you MUST give credit for its use in the 
 development of anything other than its intended use (as stated below).
 
